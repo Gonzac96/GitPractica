@@ -1,7 +1,7 @@
 # GitPractica
 Practica de curso de Git y Github
 > Este es el curso de Git y Github para poder especializarme en mi carrera.
-> - Gonzalo 
+> ## Gonzalo 😁
 
 He aprendido distintos conceptos, como por ejemplo:
 * Inicializar un repo,
@@ -10,4 +10,4 @@ He aprendido distintos conceptos, como por ejemplo:
 * realizar pull requests,
 * entre muchas otras cosas.
 
-Espero **seguir aprendiendo** con este curso y llevar a cabo proyectos con Git y Github en [mi repositorio](https://github.com/Gonzac96).
+Espero **seguir aprendiendo** con este curso y llevar a cabo proyectos con Git y Github en [mis repositorios](https://github.com/Gonzac96).
